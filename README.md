@@ -7,14 +7,14 @@
 **Builds India's national open-data platform by day — ships offline-first Android apps for fun by night.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B49BF5&center=true&vCenter=true&width=760&height=55&lines=Assistant+Director+%40+NIC+%C2%B7+MeitY+%C2%B7+Govt+of+India;Scaling+data.gov.in+%E2%80%94+India%27s+Open+Data+platform;PhD+candidate+%40+IIT+Delhi+%C2%B7+building+in+the+open">
-  <img alt="Assistant Director at NIC MeitY, scaling data.gov.in, PhD candidate at IIT Delhi" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6D48D7&center=true&vCenter=true&width=760&height=55&lines=Assistant+Director+%40+NIC+%C2%B7+MeitY+%C2%B7+Govt+of+India;Scaling+data.gov.in+%E2%80%94+India%27s+Open+Data+platform;PhD+candidate+%40+IIT+Delhi+%C2%B7+building+in+the+open">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B49BF5&center=true&vCenter=true&width=760&height=55&lines=Deputy+Director+%40+NIC+%C2%B7+MeitY+%C2%B7+Govt+of+India;Scaling+data.gov.in+%E2%80%94+India%27s+Open+Data+platform;PhD+candidate+%40+IIT+Delhi+%C2%B7+building+in+the+open">
+  <img alt="Deputy Director at NIC MeitY, scaling data.gov.in, PhD candidate at IIT Delhi" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6D48D7&center=true&vCenter=true&width=760&height=55&lines=Deputy+Director+%40+NIC+%C2%B7+MeitY+%C2%B7+Govt+of+India;Scaling+data.gov.in+%E2%80%94+India%27s+Open+Data+platform;PhD+candidate+%40+IIT+Delhi+%C2%B7+building+in+the+open">
 </picture>
 
 <br>
 
 <img alt="New Delhi, India" src="https://img.shields.io/badge/loc-New_Delhi%2C_India-5B3DBF?style=for-the-badge&labelColor=241A3D&logo=googlemaps&logoColor=white">
-<img alt="Assistant Director at NIC" src="https://img.shields.io/badge/role-Assistant_Director_%40_NIC-6D48D7?style=for-the-badge&labelColor=241A3D">
+<img alt="Deputy Director at NIC" src="https://img.shields.io/badge/role-Deputy_Director_%40_NIC-6D48D7?style=for-the-badge&labelColor=241A3D">
 <img alt="PhD at IIT Delhi" src="https://img.shields.io/badge/research-PhD_%40_IIT_Delhi-5B3DBF?style=for-the-badge&labelColor=241A3D&logo=googlescholar&logoColor=white">
 <img alt="Currently building an offline RAG chatbot" src="https://img.shields.io/badge/building-offline_RAG_chatbot-6D48D7?style=for-the-badge&labelColor=241A3D&logo=ollama&logoColor=white">
 <br>
@@ -32,14 +32,14 @@ sudo-karan@github:~$ ./init_profile.sh --live
 ## ❯ whoami
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=700&color=B49BF5&vCenter=true&width=720&height=45&lines=Jaskaran+Singh+%C2%B7+%40sudo-karan;Assistant+Director+%40+NIC+%E2%80%94+building+data.gov.in;4%2B+yrs+scaling+India%27s+Open+Government+Data+platform;PhD+CS+%40+IIT+Delhi+%C2%B7+ex-McKinsey+Data+Scientist;Loves:+offline-first+%C2%B7+RAG+%C2%B7+geospatial+ML">
-  <img alt="Jaskaran Singh identity stream" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=700&color=6D48D7&vCenter=true&width=720&height=45&lines=Jaskaran+Singh+%C2%B7+%40sudo-karan;Assistant+Director+%40+NIC+%E2%80%94+building+data.gov.in;4%2B+yrs+scaling+India%27s+Open+Government+Data+platform;PhD+CS+%40+IIT+Delhi+%C2%B7+ex-McKinsey+Data+Scientist;Loves:+offline-first+%C2%B7+RAG+%C2%B7+geospatial+ML">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=700&color=B49BF5&vCenter=true&width=720&height=45&lines=Jaskaran+Singh+%C2%B7+%40sudo-karan;Deputy+Director+%40+NIC+%E2%80%94+building+data.gov.in;4%2B+yrs+scaling+India%27s+Open+Government+Data+platform;PhD+CS+%40+IIT+Delhi+%C2%B7+ex-McKinsey+Data+Scientist;Loves:+offline-first+%C2%B7+RAG+%C2%B7+geospatial+ML">
+  <img alt="Jaskaran Singh identity stream" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=700&color=6D48D7&vCenter=true&width=720&height=45&lines=Jaskaran+Singh+%C2%B7+%40sudo-karan;Deputy+Director+%40+NIC+%E2%80%94+building+data.gov.in;4%2B+yrs+scaling+India%27s+Open+Government+Data+platform;PhD+CS+%40+IIT+Delhi+%C2%B7+ex-McKinsey+Data+Scientist;Loves:+offline-first+%C2%B7+RAG+%C2%B7+geospatial+ML">
 </picture>
 
 ```text
 ╭─ ~/whoami ──────────────────────────────────────────────
 │
-│  role     Assistant Director · NIC, MeitY, Govt of India
+│  role     Deputy Director · NIC, MeitY, Govt of India
 │  mission  build & scale data.gov.in — India's national OGD platform
 │  stack    data pipelines · cloud-native · REST · Elasticsearch · Drupal
 │  also     mentor state partners onboarding open datasets
@@ -170,8 +170,9 @@ live process monitor — contribution activity · streak · data stream
 ```text
 ╭─ ~/history ─ career.log ────────────────────────────────
 │
+│  2026 →   Deputy Director · NIC, MeitY, Govt of India  ← promoted Aug 2026
 │  2025 →   PhD · Computer Science · IIT Delhi
-│  2022 →   Assistant Director · NIC, MeitY, Govt of India
+│  2022–26  Assistant Director · NIC, MeitY, Govt of India
 │  2021–22  Data Scientist · McKinsey & Company
 │           └─ Document AI · built a layout-extraction algorithm
 │  2020     Data Science Intern · Sabudh Foundation
@@ -214,6 +215,7 @@ live process monitor — contribution activity · streak · data stream
 
 <br>
 
+<a href="https://github.com/sudo-karan/sudo-karan/blob/master/Jaskaran_Singh_Resume.pdf"><img alt="Resume PDF" src="https://img.shields.io/badge/resume-view_PDF-5B3DBF?style=for-the-badge&labelColor=241A3D&logo=readthedocs&logoColor=white"></a>
 <a href="https://karan98.in"><img alt="Portfolio karan98.in" src="https://img.shields.io/badge/portfolio-karan98.in-6D48D7?style=for-the-badge&labelColor=241A3D&logo=firefoxbrowser&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/karan98"><img alt="LinkedIn karan98" src="https://img.shields.io/badge/LinkedIn-karan98-5B3DBF?style=for-the-badge&labelColor=241A3D&logo=linkedin&logoColor=white"></a>
 <a href="mailto:jaskaran.pta@gmail.com"><img alt="Email jaskaran.pta@gmail.com" src="https://img.shields.io/badge/email-jaskaran.pta-6D48D7?style=for-the-badge&labelColor=241A3D&logo=gmail&logoColor=white"></a>
